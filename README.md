@@ -1,6 +1,6 @@
 # LAD-PaperGroup
 
-![西門町街頭演出](https://github.com/spider391Tang/LAD-PaperGroup/blob/master/photo/LAD-%E8%AB%96%E6%96%87%E5%B0%8F%E7%B5%84.jpg ''LAD-論文小組'')
+![image](https://github.com/spider391Tang/LAD-PaperGroup/blob/master/photo/LAD-%E8%AB%96%E6%96%87%E5%B0%8F%E7%B5%84.jpg)
 
 Member|Nick Name|Skill
 --|:--:|--:
