@@ -18,6 +18,12 @@ Member|Nickname|Skill|E-mail
 * 2019 中國&亞太花式足球錦標賽團體表演賽冠軍  🏆
 * 2019 BallerTime 公開組殿軍 🏆
 * 2018 BallerTime 團體表演賽季軍 🏆
+* 2018 WickCup 跨界 Battle 冠軍 🏆
+* 2018 WickCup 團體表演賽冠軍 🏆
+* 2017 WickCup 亞軍 🏆
+* 2016 The Kings Cup 亞軍 🏆
+* 2015 BTOB 花式足球人氣王 🏆
+* 2015 BTOB 花式足球冠軍 🏆
 
 # 表演經歷
 ## 2019 
