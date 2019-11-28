@@ -15,7 +15,6 @@ Member|Nickname|Skill|E-mail
 曾郁豪|Yupao|⚽|
 
 # 近期表演公告
-* 2019.11.27 國小足球世界盃開幕表演
 * 2019.12.21 台中燈會舞台表演
 
 # 獎項
@@ -31,6 +30,7 @@ Member|Nickname|Skill|E-mail
 
 # 表演經歷
 ## 2019 
+* [國小足球世界盃開幕表演](https://youtu.be/0YwZXxTuozM)
 * 迪卡儂十項全能運動派對舞台演出
 * 千佛山白雲圓夢助學頒獎典禮中場表演
 * APEC 運動城市論壇：國際賽事x運動創新開幕表演 (H.Double C X LAD-論文小組)
