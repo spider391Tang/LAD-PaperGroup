@@ -30,6 +30,7 @@ Member|Nickname|Skill|E-mail
 
 # 表演經歷
 ## 2019 
+* [2019 Taiwan Rock 演唱會花式足球表演](https://youtu.be/WaxnIyLGpXA)
 * [國小足球世界盃開幕表演](https://youtu.be/0YwZXxTuozM)
 * 迪卡儂十項全能運動派對舞台演出
 * 千佛山白雲圓夢助學頒獎典禮中場表演
