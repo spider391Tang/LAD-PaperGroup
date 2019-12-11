@@ -18,6 +18,7 @@ Member|Nickname|Skill|E-mail
 * 2019.12.21 台中燈會舞台表演
 
 # 獎項
+* 2019 Okinawa FreestyleFootball Open Top 16 🏆
 * 2019 中國&亞太花式足球錦標賽團體表演賽冠軍  🏆
 * 2019 BallerTime 公開組殿軍 🏆
 * 2018 BallerTime 團體表演賽季軍 🏆
