@@ -23,6 +23,8 @@ Member|Nickname|Skill|E-mail|Line|Phone
 * 2021.5.22 忠義基金會公益演出
 
 # 獎項
+* 2022 獲選新北市街頭藝人手冊封面團體
+* 2021 街頭作品實驗室第六季明日之星
 * 2020 日本足球協會足球挑戰活動金獎 🏆
 * 2019 Okinawa FreestyleFootball Open Top 16 🏆
 * 2019 中國&亞太花式足球錦標賽團體表演賽冠軍  🏆
