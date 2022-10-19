@@ -7,6 +7,8 @@
 * 由花式籃球與花式足球的運動員組成、也是台北市、新北市與台中市的街頭藝人。
 團員們都因為念研究所要寫論文而傷腦筋，也因為有相同的興趣，在寫論文之餘，也一起研究花式籃球足球的結合技巧。
 
+## [演出照片連結](https://drive.google.com/drive/folders/1audWqHD1Mt2lBk6cHhNqPbdEuLkWw4Cy?usp=sharing) 
+
 # 成員介紹
 
 Member|Nickname|Skill|E-mail|Line|Phone
